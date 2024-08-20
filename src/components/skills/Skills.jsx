@@ -24,6 +24,15 @@ const Skills = () => {
                 <i className="bx bx-badge-check"></i>
 
                 <div>
+                  <h3 className="skills_name">Node JS</h3>
+                  <span className="skills_level">Intermediate</span>
+                </div>
+              </div>
+
+              <div className="skills_data">
+                <i className="bx bx-badge-check"></i>
+
+                <div>
                   <h3 className="skills_name">Git</h3>
                   <span className="skills_level">Intermediate</span>
                 </div>
@@ -53,6 +62,15 @@ const Skills = () => {
                 <i className="bx bx-badge-check"></i>
 
                 <div>
+                  <h3 className="skills_name">Tailwind</h3>
+                  <span className="skills_level">Intermediate</span>
+                </div>
+              </div>
+
+              <div className="skills_data">
+                <i className="bx bx-badge-check"></i>
+
+                <div>
                   <h3 className="skills_name">CSS</h3>
                   <span className="skills_level">Advanced</span>
                 </div>
@@ -75,6 +93,15 @@ const Skills = () => {
 
           <div className="skills_box">
             <div className="skills_group">
+
+            <div className="skills_data">
+                <i className="bx bx-badge-check"></i>
+
+                <div>
+                  <h3 className="skills_name">MoongoDB</h3>
+                  <span className="skills_level">Intermediate</span>
+                </div>
+              </div>
               <div className="skills_data">
                 <i className="bx bx-badge-check"></i>
 
@@ -131,13 +158,22 @@ const Skills = () => {
                 </div>
               </div>
 
+              <div className="skills_data">
+                <i className="bx bx-badge-check"></i>
+
+                <div>
+                  <h3 className="skills_name">APPWRITE</h3>
+                  <span className="skills_level">Intermediate</span>
+                </div>
+              </div>
+
               
             </div>
           </div>
         </div>
 
         <div className="skills_content">
-          <h3 className="skills_title">Data Analyst</h3>
+          <h3 className="skills_title">Lead Generation</h3>
 
           <div className="skills_box">
             <div className="skills_group">

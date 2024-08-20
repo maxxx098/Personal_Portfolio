@@ -30,7 +30,8 @@ const MyPortfolio = () => {
   return (
     <section className='portfolio container section' id='portfolio'>
         <h2 className="section__title">Portfolio</h2>
-    <span className="section__subtitle">Most Recent Works</span>
+    <span className="section__subtitle">Most Recent Works | Hard Coded</span>
+   
         <div className="work_filters">
         {projectsNav.map((item, index) =>{
           return <span onClick={(e) => {

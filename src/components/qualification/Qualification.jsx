@@ -51,7 +51,7 @@ const Qualification = () => {
             </div>
 
             <div>
-              <h3 className="qualification_title">DATA ANALYST</h3>
+              <h3 className="qualification_title">LEAD GENERATION</h3>
               <span className="qualification_subtitle">Virtual Assist - Institute</span>
               <div className="qualification_calendar">
                 <i className="uil uil-calendar-alt"></i> 2022 - 2023
@@ -141,7 +141,7 @@ const Qualification = () => {
             </div>
 
             <div>
-              <h3 className="qualification_title">Data Analyst</h3>
+              <h3 className="qualification_title">LEAD GENERATION</h3>
               <span className="qualification_subtitle">SPL Data - Marketing</span>
               <div className="qualification_calendar">
                 <i className="uil uil-calendar-alt"></i> 2018 - Present

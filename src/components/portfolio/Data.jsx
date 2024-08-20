@@ -6,6 +6,8 @@ import Work10 from '../../assets/Eccommerce.jpg'
 import Sy from '../../assets/Portfolio.jpg'
 import Sy1 from '../../assets/sy1.png'
 import Sy3 from '../../assets/sysysy.png'
+import Sy4 from '../../assets/Iphone.png'
+import Sy5 from '../../assets/HooBank.png'
 
 
 
@@ -65,6 +67,22 @@ import Sy3 from '../../assets/sysysy.png'
       description:"Language Used: React / Node JS / Tailwwind / Appwrite/ TypeScript",
       category:'UI | UX',
       URL: "https://snapgram-one.vercel.app/",
+    },
+    {
+      id: 8,
+      image: Sy4,
+      title: "Iphone App Store Clone",
+      description:"Language Used: React / Node JS / Tailwwind / TypeScript",
+      category:'UI | UX',
+      URL: "https://iphone-lvx50lyjc-maxxx098s-projects.vercel.app/",
+    },
+    {
+      id: 9,
+      image: Sy5,
+      title: "HooBank App",
+      description:"Language Used: React / Node JS / Tailwwind / TypeScript",
+      category:'UI | UX',
+      URL: "https://hoobank-qygubykei-maxxx098s-projects.vercel.app/",
     },
   ];
 
