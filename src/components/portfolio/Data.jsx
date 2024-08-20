@@ -56,7 +56,7 @@ import Sy3 from '../../assets/sysysy.png'
       title: "Brainwave Chat Bot",
       description:"Language Used: React / Node JS / Tailwwind",
       category:'UI | UX',
-      URL: "https://jsm-brainwave.com/",
+      URL: "https://brainwave-22pamsdt9-maxxx098s-projects.vercel.app/",
     },
     {
       id: 7,
