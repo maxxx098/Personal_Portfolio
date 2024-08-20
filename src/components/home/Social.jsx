@@ -8,7 +8,7 @@ const Social = () => {
   };
  // Link to Instagram
   const handleButtonToInstagram = () => {
-    window.open('https://www.instagram.com/symonesassy/', '_blank');
+    window.open('https://www.instagram.com/symoncrafts/', '_blank');
   };
   // Link to facebook
   const handleButtonToGithub = () => {
