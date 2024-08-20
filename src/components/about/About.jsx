@@ -42,7 +42,7 @@ const About = () => {
      <p className='about_description'>Frontend developer, I create web pages with UI / UX user interface, I have years of experience and many clients are happy with the projects carried out.</p>
      
      
-      <a download="" href={CV} className="button button--flex">
+      <a download=""  className="button button--flex">
         Download CV
         <svg
                 class="button__icon"
