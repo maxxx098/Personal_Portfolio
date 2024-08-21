@@ -1,7 +1,7 @@
 
 import Work9 from '../../assets/image.png'
 import Work7 from '../../assets/work7.png'
-import Work8 from '../../assets/work8.png'
+import Work8 from '../../assets/dashboard.png'
 import Work10 from '../../assets/Eccommerce.jpg'
 import Sy from '../../assets/Portfolio.jpg'
 import Sy1 from '../../assets/sy1.png'
@@ -17,17 +17,19 @@ import Sy5 from '../../assets/HooBank.png'
       id: 1,
       image: Work7,
       title: "Barber Shop Website",
-      description:"Language Used: React JS",
+      description:"Language Used: React JS | Firebase ",
       category: "Web",
-      URL: "https://maxxx098.github.io/Barber_Shop_Template/",
+      URL: "https://my-app-react-five.vercel.app/",
     },
     {
       id: 2,
       image: Work8,
-      title: "Portfolio Website",
-      description:"Language Used: HTML | CSS | JS",
+      title: "Real-Time Dashboard",
+      description:"Language Used: Vite JS | React JS | Kanban | Refine",
       category: 'UI | UX',
-      URL: "https://maxxx098.github.io/Portfolio/portfolio/",
+      admin: 'Email: michael.scott@dundermifflin.com',
+      password: 'Passwword: demodemo',
+      URL: "https://app-crm-minimal-l824jrt3t-maxxx098s-projects.vercel.app/",
     },
     {
       id: 3,

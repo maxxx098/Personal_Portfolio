@@ -7,6 +7,8 @@ function WorkItems({item}) {
      <img src={item.image} alt="" className='work_img'/>
      <h3 className="work_title">{item.title}</h3>
      <p className='work_paragraph'>{item.description}</p>
+     <p className='work_paragraph'>{item.admin}</p>
+     <p className='work_paragraph'>{item.password}</p>
      <a href={item.URL} rel="noreferrer" target="_blank"><div  className="work_button">
         Demo   <i className="bx bx-right-arrow-alt work_button-icon"></i>
      </div></a>
