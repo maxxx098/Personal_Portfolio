@@ -11,6 +11,7 @@ import Sy5 from '../../assets/HooBank.png'
 
 
 
+
   export const projectsData = [
     
     {
@@ -67,7 +68,7 @@ import Sy5 from '../../assets/HooBank.png'
       image: Sy3,
       title: "Social App",
       description:"Language Used: React / Node JS / Tailwwind / Appwrite/ TypeScript",
-      category:'UI | UX',
+      category:'Full Stack',
       URL: "https://snapgram-one.vercel.app/",
     },
     {
@@ -86,6 +87,7 @@ import Sy5 from '../../assets/HooBank.png'
       category:'UI | UX',
       URL: "https://hoobank-qygubykei-maxxx098s-projects.vercel.app/",
     },
+    
   ];
 
   export const projectsNav = [
