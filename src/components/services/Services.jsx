@@ -16,7 +16,7 @@ const Services = () => {
      <div className="services_content">
          <div>
              <i className="uil uil-web-grid services_icon">
-                 <h3 className="services_title">Full Stack Dev.</h3>
+                 <h3 className="services_title">Lead Generation</h3>
                  
              </i>
          </div>
@@ -27,7 +27,7 @@ const Services = () => {
              <div className="services_modal-content">
                  <i onClick={() =>toggleTab(0)} className="uil uil-times services_modal-close"></i>
 
-                 <h3 className="services_modal-title">Full Stack Developer</h3>
+                 <h3 className="services_modal-title">Lead Generation</h3>
                  <p className="services_modal-description">Service with more than 3 years of experience.Providing quality work to clients and companies.
 </p>
 
@@ -64,7 +64,7 @@ const Services = () => {
                  <i onClick={() =>toggleTab(0)} className="uil uil-times services_modal-close"></i>
 
                  <h3 className="services_modal-title">Ui/Ux Designer</h3>
-                 <p className="services_modal-description">Service with more than 2 month's of experience.Providing quality work to clients and companies.
+                 <p className="services_modal-description">Service with more than 2 years's of experience.Providing quality work to clients and companies.
 </p>
 
 <ul className="services_modal-services grid">
@@ -89,7 +89,7 @@ const Services = () => {
      <div className="services_content">
          <div>
              <i className="uil uil-edit services_icon">
-                 <h3 className="services_title">Frontend Developer</h3>
+                 <h3 className="services_title">Full Stack Dev.</h3>
              </i>
          </div>
 
@@ -99,8 +99,8 @@ const Services = () => {
              <div className="services_modal-content">
                  <i onClick={() =>toggleTab(0)} className="uil uil-times services_modal-close"></i>
 
-                 <h3 className="services_modal-title">Frontend Developer</h3>
-                 <p className="services_modal-description">Service with more than 4 month's of experience.Providing quality work to clients and companies.
+                 <h3 className="services_modal-title">Full Stack Dev.</h3>
+                 <p className="services_modal-description">Service with more than 2 years's of experience.Providing quality work to clients and companies.
 </p>
 
 <ul className="services_modal-services grid">
