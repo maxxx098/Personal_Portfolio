@@ -11,7 +11,7 @@
     justify-self: center;
     
   }
- 
+
   .containerTwoButtons {
     gap: 0.5rem;
     display: flex;
@@ -61,7 +61,11 @@
       width: auto;
       height: 400px;
     }
-  
+    .containerTwoButtons {
+      gap: 0.5rem;
+      display: flex;
+      justify-content: center;
+    }
     .about_box {
       padding: 0.75rem 0.5rem;
     }
@@ -95,6 +99,12 @@
     width: auto;
     height: 300px;
   }
+  .containerTwoButtons {
+    gap: 0.5rem;
+    display: flex;
+    justify-content: center;
+  }
+
   }
   @media screen and (max-width: 350px) {
     .about_info {
@@ -107,4 +117,10 @@
       width: auto;
       height: 200px;
     }
+    .containerTwoButtons {
+      gap: 0.5rem;
+      display: grid;
+      justify-content: center;
+    }
   }
+ 
