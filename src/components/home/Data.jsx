@@ -53,12 +53,12 @@ const Data = () => {
                     fill="#EBA352"
                   ></path>
                 </svg></h1>
-      <h3 className="home_subtitle">Frontend Developer</h3>
-      <p className="home_description">Frontend developer, I create web pages with UI / UX user interface, I have years of experience and many clients are happy with the projects carried out.</p>
+                  <h3 className="home_subtitle">Full Stack Web Developer</h3>
+                    <p className="home_description">Full Stack Developer, I create web pages with UI / UX user interface, I have years of experience and many clients are happy with the projects carried out.</p>
 
-      <button  href="#contact" className='button button--flex'>
- Say Hello
- <svg
+                  <button  href="#contact" className='button button--flex'>
+                        Say Hello
+                  <svg
                   class="button__icon"
                   xmlns="http://www.w3.org/2000/svg"
                   width="24"
@@ -75,9 +75,8 @@ const Data = () => {
                     fill='var(--container-color)'
                   ></path>
                 </svg>
-</button>
-      
-    </div>
+        </button>
+      </div>
   )
 }
 
