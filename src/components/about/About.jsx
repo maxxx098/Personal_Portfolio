@@ -2,9 +2,18 @@ import React, { useState } from 'react';
 import './about.css';
 import img4 from "../../assets/symon.jpg";
 import CV from '../../assets/My_Resume.pdf';
+import Cv from '../../assets/My_Resume.pdf';
 import Modal from 'react-modal';
 
 const About = () => {
+
+  const handleDownload = () => {
+    const link = document.createElement('a');
+    link.href = Cv; 
+    link.download = 'My_Resume.pdf'; 
+    link.click();
+  };
+
   const [modalIsOpen, setModalIsOpen] = useState(false);
 
   const openModal = () => {
@@ -72,7 +81,7 @@ const About = () => {
                 ></path>
               </svg>
             </button>
-            <button download="" href={CV}  className="button button--flex">
+            <button onClick={handleDownload} className="button button--flex">
               Download CV
               <svg
                 className="button__icon"

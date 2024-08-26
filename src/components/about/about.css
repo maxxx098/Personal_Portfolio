@@ -14,7 +14,7 @@
  
   .containerTwoButtons {
     gap: 0.5rem;
-   display: flex;
+    display: flex;
   }
   
   .about_info {
