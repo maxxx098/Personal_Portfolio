@@ -11,6 +11,11 @@
     justify-self: center;
     
   }
+ 
+  .containerTwoButtons {
+    gap: 0.5rem;
+   display: flex;
+  }
   
   .about_info {
     grid-template-columns: repeat(3, 140px);
